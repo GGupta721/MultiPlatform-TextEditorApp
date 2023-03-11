@@ -1,0 +1,19 @@
+# version: "3"
+# services:
+#   python:
+#     build:
+#       context: .
+#       dockerfile: python.Dockerfile
+version: "3.9"
+services:
+  webserver:
+    build:
+      context: .
+      dockerfile: python.dockerfile
+    ports:
+      - "5000:5000"
+  # launchhtml:
+  #   build:
+  #     context: .
+  #     dockerfile: js.dockerfile
+  #   # ports:
