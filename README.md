@@ -1,4 +1,4 @@
-# Simple text editor app
+# Polygot Text Editor Application
 
 #### This project implements a simple text editor app that allows the user to customize the text with features such as underline, bold, italic, alignment etc. It also contains a feature Spell-Check that tells the user if there are any spelling mistakes made in the text.
 
