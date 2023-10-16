@@ -1,4 +1,4 @@
-# Polygot Text Editor Application
+# Polyglot Text Editor Application
 
 This project is an implementation of a simple text editor application that provides users with various customization features such as underline, bold, italic, alignment, and more. Additionally, it includes a spell-check feature to identify spelling mistakes in the text. 
 
